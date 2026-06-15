@@ -6,7 +6,7 @@ This module orchestrates the entire application, managing menu navigation
 and coordinating between different components without handling direct
 user input or data processing logic.
 """
-
+   
 import tui
 import process
 import visual

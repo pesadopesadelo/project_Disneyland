@@ -1,0 +1,151 @@
+Review_ID,Rating,Year_Month,Reviewer_Location,Branch
+1,5,Sep 2018,United Kingdom,Disneyland_Paris
+2,4,Oct 2019,USA,Disneyland_California
+3,5,Mar 2020,Canada,Disneyland_California
+4,3,Jan 2018,Australia,Disneyland_HongKong
+5,5,Dec 2019,France,Disneyland_Paris
+6,4,Feb 2020,Germany,Disneyland_Paris
+7,2,Nov 2018,Brazil,Disneyland_California
+8,5,May 2019,China,Disneyland_Shanghai
+9,4,Jul 2019,India,Disneyland_HongKong
+10,5,Aug 2020,United Kingdom,Disneyland_Paris
+11,3,Apr 2018,Spain,Disneyland_Paris
+12,5,Jun 2019,USA,Disneyland_California
+13,4,Oct 2020,Japan,Disneyland_Shanghai
+14,5,Jan 2019,Italy,Disneyland_Paris
+15,2,Mar 2019,Russia,Disneyland_California
+16,5,Sep 2019,United Kingdom,Disneyland_California
+17,4,Dec 2018,France,Disneyland_Paris
+18,5,Feb 2019,Australia,Disneyland_California
+19,3,Jul 2018,Germany,Disneyland_Paris
+20,5,Nov 2019,China,Disneyland_Shanghai
+21,4,May 2018,Canada,Disneyland_HongKong
+22,5,Aug 2019,Brazil,Disneyland_California
+23,2,Oct 2018,India,Disneyland_Paris
+24,5,Mar 2020,USA,Disneyland_California
+25,4,Jun 2018,Spain,Disneyland_Paris
+26,5,Jan 2020,Japan,Disneyland_Shanghai
+27,3,Sep 2019,Italy,Disneyland_California
+28,5,Dec 2019,United Kingdom,Disneyland_Paris
+29,4,Feb 2018,Russia,Disneyland_HongKong
+30,5,Nov 2018,France,Disneyland_California
+31,2,May 2020,Germany,Disneyland_Paris
+32,5,Jul 2019,China,Disneyland_Shanghai
+33,4,Oct 2019,Canada,Disneyland_California
+34,5,Mar 2018,Australia,Disneyland_Paris
+35,3,Aug 2018,Brazil,Disneyland_HongKong
+36,5,Jun 2019,India,Disneyland_Shanghai
+37,4,Apr 2019,USA,Disneyland_California
+38,5,Jan 2019,Spain,Disneyland_Paris
+39,5,Dec 2020,Japan,Disneyland_Shanghai
+40,2,Sep 2018,Italy,Disneyland_California
+41,5,Feb 2020,United Kingdom,Disneyland_Paris
+42,4,Nov 2019,Russia,Disneyland_California
+43,5,May 2018,France,Disneyland_Paris
+44,3,Jul 2018,Germany,Disneyland_HongKong
+45,5,Oct 2020,China,Disneyland_Shanghai
+46,4,Mar 2019,Canada,Disneyland_California
+47,5,Aug 2019,Australia,Disneyland_Paris
+48,2,Jun 2018,Brazil,Disneyland_California
+49,5,Apr 2020,India,Disneyland_Shanghai
+50,5,Jan 2018,USA,Disneyland_HongKong
+51,4,Sep 2019,Spain,Disneyland_Paris
+52,5,Dec 2018,Japan,Disneyland_California
+53,3,May 2019,Italy,Disneyland_Paris
+54,5,Jul 2020,United Kingdom,Disneyland_Shanghai
+55,4,Feb 2018,Russia,Disneyland_California
+56,5,Oct 2019,France,Disneyland_Paris
+57,5,Mar 2018,Germany,Disneyland_California
+58,2,Nov 2018,China,Disneyland_HongKong
+59,5,Jun 2019,Canada,Disneyland_Shanghai
+60,4,Aug 2020,Australia,Disneyland_California
+61,5,Apr 2019,Brazil,Disneyland_Paris
+62,3,Jan 2019,India,Disneyland_California
+63,5,Sep 2018,USA,Disneyland_California
+64,4,Dec 2019,Spain,Disneyland_Paris
+65,5,May 2020,Japan,Disneyland_Shanghai
+66,2,Jul 2018,Italy,Disneyland_California
+67,5,Feb 2019,United Kingdom,Disneyland_Paris
+68,4,Oct 2018,Russia,Disneyland_California
+69,5,Mar 2019,France,Disneyland_Paris
+70,5,Nov 2020,Germany,Disneyland_Shanghai
+71,3,Jun 2018,China,Disneyland_California
+72,5,Aug 2019,Canada,Disneyland_Paris
+73,4,Apr 2018,Australia,Disneyland_HongKong
+74,5,Jan 2020,Brazil,Disneyland_Shanghai
+75,2,Sep 2019,India,Disneyland_California
+76,5,Dec 2018,USA,Disneyland_California
+77,4,May 2019,Spain,Disneyland_Paris
+78,5,Jul 2019,Japan,Disneyland_Shanghai
+79,3,Feb 2018,Italy,Disneyland_California
+80,5,Oct 2019,United Kingdom,Disneyland_Paris
+81,4,Mar 2020,Russia,Disneyland_Shanghai
+82,5,Nov 2018,France,Disneyland_California
+83,5,Jun 2019,Germany,Disneyland_Paris
+84,2,Aug 2018,China,Disneyland_HongKong
+85,5,Apr 2019,Canada,Disneyland_Shanghai
+86,4,Jan 2019,Australia,Disneyland_California
+87,5,Sep 2018,Brazil,Disneyland_Paris
+88,3,Dec 2019,India,Disneyland_California
+89,5,May 2020,USA,Disneyland_Shanghai
+90,4,Jul 2018,Spain,Disneyland_Paris
+91,5,Feb 2020,Japan,Disneyland_Shanghai
+92,2,Oct 2018,Italy,Disneyland_California
+93,5,Mar 2019,United Kingdom,Disneyland_Paris
+94,4,Nov 2019,Russia,Disneyland_California
+95,5,Jun 2018,France,Disneyland_Paris
+96,5,Aug 2019,Germany,Disneyland_Shanghai
+97,3,Apr 2020,China,Disneyland_California
+98,5,Jan 2018,Canada,Disneyland_HongKong
+99,4,Sep 2019,Australia,Disneyland_Paris
+100,5,Dec 2018,Brazil,Disneyland_California
+101,5,May 2019,India,Disneyland_Shanghai
+102,2,Jul 2019,USA,Disneyland_California
+103,5,Feb 2018,Spain,Disneyland_Paris
+104,4,Oct 2019,Japan,Disneyland_Shanghai
+105,5,Mar 2018,Italy,Disneyland_California
+106,3,Nov 2018,United Kingdom,Disneyland_Paris
+107,5,Jun 2019,Russia,Disneyland_Shanghai
+108,4,Aug 2018,France,Disneyland_California
+109,5,Apr 2019,Germany,Disneyland_Paris
+110,5,Jan 2020,China,Disneyland_Shanghai
+111,2,Sep 2019,Canada,Disneyland_California
+112,5,Dec 2019,Australia,Disneyland_Paris
+113,4,May 2018,Brazil,Disneyland_California
+114,5,Jul 2020,India,Disneyland_Shanghai
+115,3,Feb 2019,USA,Disneyland_California
+116,5,Oct 2018,Spain,Disneyland_Paris
+117,4,Mar 2019,Japan,Disneyland_Shanghai
+118,5,Nov 2019,Italy,Disneyland_California
+119,5,Jun 2018,United Kingdom,Disneyland_Paris
+120,2,Aug 2019,Russia,Disneyland_Shanghai
+121,5,Apr 2018,France,Disneyland_California
+122,4,Jan 2019,Germany,Disneyland_Paris
+123,5,Sep 2018,China,Disneyland_California
+124,3,Dec 2019,Canada,Disneyland_Shanghai
+125,5,May 2020,Australia,Disneyland_Paris
+126,4,Jul 2018,Brazil,Disneyland_California
+127,5,Feb 2019,India,Disneyland_Shanghai
+128,5,Oct 2019,USA,Disneyland_Paris
+129,2,Mar 2018,Spain,Disneyland_California
+130,5,Nov 2018,Japan,Disneyland_Shanghai
+131,4,Jun 2019,Italy,Disneyland_Paris
+132,5,Aug 2018,United Kingdom,Disneyland_California
+133,3,Apr 2019,Russia,Disneyland_Shanghai
+134,5,Jan 2018,France,Disneyland_California
+135,4,Sep 2019,Germany,Disneyland_Paris
+136,5,Dec 2018,China,Disneyland_California
+137,5,May 2019,Canada,Disneyland_Shanghai
+138,2,Jul 2019,Australia,Disneyland_Paris
+139,5,Feb 2018,Brazil,Disneyland_California
+140,4,Oct 2018,India,Disneyland_Shanghai
+141,5,Mar 2019,USA,Disneyland_Paris
+142,3,Nov 2019,Spain,Disneyland_California
+143,5,Jun 2018,Japan,Disneyland_Shanghai
+144,4,Aug 2019,Italy,Disneyland_Paris
+145,5,Apr 2018,United Kingdom,Disneyland_California
+146,5,Jan 2019,Russia,Disneyland_Shanghai
+147,2,Sep 2018,France,Disneyland_Paris
+148,5,Dec 2019,Germany,Disneyland_California
+149,4,May 2018,China,Disneyland_Shanghai
+150,5,Jul 2020,Canada,Disneyland_Paris

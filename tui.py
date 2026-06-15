@@ -5,7 +5,7 @@ This module is responsible for displaying information to users and collecting
 their responses. No data processing or analysis happens here.
 """
 
-def display_welcome_banner():
+def display_welcome_banner():  
     """Shows the program title and introductory information."""
     print("\n" + "=" * 60)
     print("    D I S N E Y L A N D   R E V I E W   A N A L Y S E R")
